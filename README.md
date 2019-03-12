@@ -7,3 +7,5 @@ This component was created using Node.js along with the following dependencies:
   - body-parser
   - knex
   - pg (PostgreSQL for Node.js)
+  
+ Try it for your self and see if it can really find people in photos.
